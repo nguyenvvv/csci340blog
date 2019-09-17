@@ -17,8 +17,7 @@ title: My Blog!
 email: Nguyenvv@hendrix.edu
 description: >- # this means to ignore newlines until "baseurl:"
   I am a student of Dr. Goadrich's Web Development class!
-  I enjoy programming and problem solving as much as I do
-  napping. 
+  I enjoy programming and problem solving.
 baseurl: "/csci340blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: vi1099
