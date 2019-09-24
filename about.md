@@ -1,18 +1,22 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: About Me
+description: Who I am!
+sitemap:
+    priority: 0.7
+    lastmod: 2017-11-02
+    changefreq: weekly
 ---
+## About Me!
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+<span class="image fit"><img src="{{ "/images/aboutme.jpg" | absolute_url }}" alt="" /></span>
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Hi! My name is Vi Nguyen and I am currently a sophomore at [Hendrix College](https://www.hendrix.edu/). I am pursuing dual majors in Computer Science and Computer Engineering. When I am not at school, I enjoy traveling and spending time with friends and family. My most recent trip was going to Vietnam in the summer of 2019 to visit the rest of my extended family. There I learned a lot about my culture and was able to touch up on my roots.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+<div class="box">
+	<blockquote>Tell me and I forget, teach me and I may remember, involve me and I learn.</blockquote>
+</div>
 
+<span class="image fit"><img src="{{ "/images/sunset-vietnam.jpeg" | absolute_url }}" alt="" /></span>
 
-[jekyll-organization]: https://github.com/jekyll
+I hope to always continue learning and to let that drive me beyond the fleeting pleasures of the world. 
