@@ -19,4 +19,4 @@ Hi! My name is Vi Nguyen and I am currently a sophomore at [Hendrix College](htt
 
 <span class="image fit"><img src="{{ "/images/sunset-vietnam.jpeg" | absolute_url }}" alt="" /></span>
 
-I hope to always continue learning and to let that drive me beyond the fleeting pleasures of the world. 
+I hope to always continue learning and to let that drive me beyond the fleeting pleasures of the world.

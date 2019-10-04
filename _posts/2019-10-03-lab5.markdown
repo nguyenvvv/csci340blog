@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Lab 5 Blog"
+date:   2019-10-03
+author: Vi Nguyen
+excerpt: "My Data Modeling Experience"
+image: "/images/csci340.png"
+---
+### Draw.io prototype
+
+<span class="image fit"><img src="{{ "/images/csci340.png" | absolute_url }}" alt="" /></span>
+
+### SQL Schema in Vertabelo
+
+<span class="image fit"><img src="{{ "/images/csci-auction-vertabelo.png" | absolute_url }}" alt="" /></span>
+
+
+
+**What did I assume?**
+  -I assumed that sellers and buyers were only linked through items. So, a seller lists his/her item(s), in which the two is connected by a seller ID and an Item ID. The only thing I would change in Vertabelo is the cardinality between many of the entities. There can be one seller to many items. I also assumed that one customer can have many bid numbers but can only bid one at a time, therefore, price is a primary key in bids.
+
+**What did I miss?**
+  -I wish I had added another entity called "auction" since the seller has to pay a fee to the auction when an item sells. Auction would also be a connection between sellers and buyers.
+
+**Thoughts, Questions, Concerns?**
+  -I am still worried that I may not understand data modeling to the extent I want to be. Therefore, I will speak with Dr. Goadrich during office hours to hopefully get myself situated with this lab. I understand everything up to the point of cardinality. I understand that there is not one right answer. 
