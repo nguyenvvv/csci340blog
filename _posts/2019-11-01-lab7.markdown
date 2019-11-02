@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Lab 7 Blog"
+date:   2019-11-01
+author: Vi Nguyen
+excerpt: "Reflection on Lab 7: JS & JQuery"
+image: "/images/api.png"
+---
+## My Javascript& JQuery & API experience
+
+**Was the Khan Academy tutorial adequate training, or were there other elements you needed to succeed?**
+  1. The Khan academy tutorials were helpful but having the hands-on experience with [Coddeacademy](https://www.codecademy.com/learn/introduction-to-javascript/modules/intermediate-javascript-requests) is way more helpful. I also looked a lot of stuff up on stackoverflow and w3School.
+
+**What was frustrating about combining the APIs?**
+  1. Having to work around CORS. Other than that, everything was trial and error, and that in itself can be frustrating just having to look up specific functions that I need.
+
+**What was exciting to get working?**
+  1. Learning how to work a new language is always exciting. While class notes were helpful, we all truly learned by working on our own times and doing our own research and being able to learn through experience. I particularly liked working with the APIs themselves. 
