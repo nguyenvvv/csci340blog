@@ -11,7 +11,7 @@ sitemap:
 
 <span class="image fit"><img src="{{ "/images/aboutme.jpg" | absolute_url }}" alt="" /></span>
 
-Hi! My name is Vi Nguyen and I am currently a sophomore at [Hendrix College](https://www.hendrix.edu/). I am pursuing a major in Computer Science. When I am not at school, I enjoy traveling and spending time with friends and family. 
+Hi! My name is Vi Nguyen and I am currently a senior at [Hendrix College](https://www.hendrix.edu/). I am pursuing a major in Computer Science. When I am not at school, I enjoy traveling, spending time with friends and family (including my cats) and exploring my creative side via sticker making, embroidering, or programming. I am also a part time software engineer for Windstream developing chatbots. 
 
 <div class="box">
 	<blockquote>Tell me and I forget, teach me and I may remember, involve me and I learn.</blockquote>
