@@ -11,7 +11,7 @@ sitemap:
 
 <span class="image fit"><img src="{{ "/images/aboutme.jpg" | absolute_url }}" alt="" /></span>
 
-Hi! My name is Vi Nguyen and I am currently a sophomore at [Hendrix College](https://www.hendrix.edu/). I am pursuing dual majors in Computer Science and Computer Engineering. When I am not at school, I enjoy traveling and spending time with friends and family. My most recent trip was going to Vietnam in the summer of 2019 to visit the rest of my extended family. There I learned a lot about my culture and was able to touch up on my roots.
+Hi! My name is Vi Nguyen and I am currently a sophomore at [Hendrix College](https://www.hendrix.edu/). I am pursuing a major in Computer Science. When I am not at school, I enjoy traveling and spending time with friends and family. 
 
 <div class="box">
 	<blockquote>Tell me and I forget, teach me and I may remember, involve me and I learn.</blockquote>
