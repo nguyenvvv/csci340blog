@@ -9,7 +9,7 @@ image: "/images/api.png"
 ## My Javascript& JQuery & API experience
 
 **Was the Khan Academy tutorial adequate training, or were there other elements you needed to succeed?**
-  1. The Khan academy tutorials were helpful but having the hands-on experience with [Coddeacademy](https://www.codecademy.com/learn/introduction-to-javascript/modules/intermediate-javascript-requests) is way more helpful. I also looked a lot of stuff up on stackoverflow and w3School.
+  1. The Khan academy tutorials were helpful but having the hands-on experience with [Codeacademy](https://www.codecademy.com/learn/introduction-to-javascript/modules/intermediate-javascript-requests) is way more helpful. I also looked a lot of stuff up on stackoverflow and w3School.
 
 **What was frustrating about combining the APIs?**
   1. Having to work around CORS. Other than that, everything was trial and error, and that in itself can be frustrating just having to look up specific functions that I need.
