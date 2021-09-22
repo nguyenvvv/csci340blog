@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Disco Tray Studios Blog 2"
-date:   2021-09-14
+date:   2021-09-22
 author: Vi Nguyen
 excerpt: "Working for Disco Tray Studios"
 image: "/images/disco-tray-image.png"
@@ -9,42 +9,21 @@ image: "/images/disco-tray-image.png"
 ## Update on Disco Tray Studios and life experiences
 
 **Good Vibes Flutter App**
-  1. This past week I have been working on verifying email addresses. I took some time to understand the source code and struggled a bit with time managment while working on this work item. I found the perfect documentation from firebase itself which shows me how to verify users by sending an email address associated with their accounts, however, from my understanding we only use the firebase auth authentication package in profilepage.dart which uses an instance of the firebase auth in order to retrieve a user's credentials and allow them to log out. Furthermore, Dr. Goadrich pulled the code base for authentication.dartt from a public repo on github -- and I was able to find that to further understand how it works in relation to Firebase. Authentication.dart provides all the classes to build the widgets that make up the log in page. There are controllers (variables passed in by user) in the page that is then passed into the Firebase db for authentication which and then is used in the profilePage.dart. Using Firebase auth, I need to Following the same format, I need to create an alert/pop up dialog that informs the user that an email has been sent to their respective email accounts that need to be confirmed. Firebase has the mechanisms for this. A user should be able to still use the app with limited abilities. I have been researching ways to block certain features of a flutter app until a user has sucessfully verified their email. I found this stackoverflow discussion [here](https://stackoverflow.com/questions/54220859/flutter-disable-touch-on-the-entire-screen) which should disable certain widgets. I can wrap this around a widget until the validation flag within Firebase has been set to true. 
-  2. While testing the Good Vibes app, I ran into an error in which I was unable to log my mood of the day. The error can be found below:
-
-	
-    Unhandled Exception: [cloud_firestore/permission-denied] The caller does not have permission to execute the specified operation.
-	
-
-  After some great googling, I was able to find other people that encountered the same error. The solution that worked is as follows: Console Firebase > Good Vibes > Firestore Database > Rules.
-
-  There, I added an extra condition to check for null values. 
+  1. This past week I continued to work through the email verification card for the Good Vibes app. I was able to send myself a verification email but I am still working on getting past a null pointer issue. When a user creates an account, the good vibe app redirects to a null error but once I reload flutter, the email is then able to send. The email verification aspect of this work item works as expected i.e. users are directed to a screen that says that they have been sent an email and they will not be able to access the page until they click on the link. Once they click on the link, the Good Vibes app is ready to be used. 
 
 **Playing the Games from Game Dev**
-  1. Astronomical Bodies
-  - Hard to understand
-  - Enjoyed the galactic-esque background music
-  - Physics looked smooth
-  - Aesthetic trails of space objects
-  - Very experimental user experience
-  2. ItsMaya
-  - Straight forward
-  - Liked the story telling aspect
-  - Some of the visuals are cutoff (ex: the "store" covered the money ammount)
-  3. Art-tasrophe
-  - Needs a map in the corner otherwise it is hard to navigate
-  - Confusing controls
-  - Portals/doors were not intuitive
-  - Like the take on a classic mario game
-  4. Chemistry Simulation
-  - Pretty hard to understand
-  - Molecules start off in far distance
-  - Very experimental user experience
-  - Guided tutorial is a good feature!
-  - New feature?? Add molecule name headers
+  1. Climate goes political
+  - Confusing to Play
+  - Game should have a choice of being one player or multiple players
+  - Beautiful Interface
+  - Easy to read
+  2. Cultivating Competencies
+  - Good user experience
+  - Easy to understand
+  - Could expand give users choices to choose their dorms and tour them
   
 
 **New Changes In My Life?**
-  1. I have made the decision to graduate in December because I am feeling burnt out from college. I think seeing the same scene and the hustle of academia in the midst of a pandemic has gotten the best of me. On a good note, I have been roller skating more and trying to relish the fact that no matter where I am in life, I can continue learning.
+  1. I turn 21 this September 25th! 
 
 
