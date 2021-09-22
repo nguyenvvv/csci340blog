@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "Disco Tray Studios Blog 3"
+date:   2021-09-22
+author: Vi Nguyen
+excerpt: "Working for Disco Tray Studios"
+image: "/images/disco-tray-image.png"
+---
+## Update on Disco Tray Studios and life experiences
+
+**Good Vibes Flutter App**
+  1. This past week I continued to work through the email verification card for the Good Vibes app. I was able to send myself a verification email but I am still working on getting past a null pointer issue. When a user creates an account, the good vibe app redirects to a null error but once I reload flutter, the email is then able to send. The email verification aspect of this work item works as expected i.e. users are directed to a screen that says that they have been sent an email and they will not be able to access the page until they click on the link. Once they click on the link, the Good Vibes app is ready to be used. 
+
+**Playing the Games from Game Dev**
+  1. Climate goes political
+  - Confusing to Play
+  - Game should have a choice of being one player or multiple players
+  - Beautiful Interface
+  - Easy to read
+  2. Cultivating Competencies
+  - Good user experience
+  - Easy to understand
+  - Could expand give users choices to choose their dorms and tour them
+  
+
+**New Changes In My Life?**
+  1. I turn 21 this September 25th! 
+
+
