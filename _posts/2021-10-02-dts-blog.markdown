@@ -12,7 +12,7 @@ image: "/images/disco-tray-image.png"
   1. Since I have been looking at this authentication thing for so long, I decided to meet up with Andrew to get a second pair of eyes. I narrowed the difficulty of this card to two things:
   - The user is being verified before they are logged in so, there is technically no user with that email yet
   - There are a lot of moving parts and I may need to study the source code more
-  I was able to discuss the bug, my implementations and next steps with Andrew. Eventually, I was able to get an email to send, however, we still ran into the problem of it being null first. Therefore, once Andrew helped me understand the Good Vibes source code better, I was able to get a clearer understanding of my next steps.
+  2. I was able to discuss the bug, my implementations and next steps with Andrew. Eventually, I was able to get an email to send, however, we still ran into the problem of it being null first. Therefore, once Andrew helped me understand the Good Vibes source code better, I was able to get a clearer understanding of my next steps.
   I need to: 
   - Have the user register and log-in successfully. I need a new appstate variable called validation state that will be an awaitingValidation enum
   - Once the user is logged in, if validation state is still awaiting validation and the user is logged in, I need to send them to a page that lets them know an email is sent
