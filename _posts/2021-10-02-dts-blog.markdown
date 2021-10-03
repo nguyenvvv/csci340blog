@@ -17,7 +17,7 @@ image: "/images/disco-tray-image.png"
     1. Have the user register and log-in successfully. I need a new appstate variable called validation state that will be an awaitingValidation enum
     2. Once the user is logged in, if validation state is still awaiting validation and the user is logged in, I need to send them to a page that lets them know an email is sent
     3. The page reloads every 30 seconds to check whether the user has clicked the validation link or not
-    4. If the user if the user is logged in and validation state is validated, then the app builds as normal
+    4. If the user if the user is logged in and validation state is validated, then the app builds as normal 
   
 
 **New Changes In My Life?**
