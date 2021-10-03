@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Disco Tray Studios Blog 4"
+date:   2021-09-29
+author: Vi Nguyen
+excerpt: "Working for Disco Tray Studios"
+image: "/images/disco-tray-image.png"
+---
+## Update on Disco Tray Studios and life experiences
+
+**Good Vibes Flutter App**
+  1. This past week I continued to work through the email verification card for the Good Vibes app. After I made the verify page that would redirect users to a screen that lets users know an email has been sent to them, I ran into an error. The error was that once users were logged in, the an email was sent to null, hence no email was sent. However once I quick reload the app in the background, the page is able to display the email of the user, but alas, an email is not sent. This is because the function for sending a validation email is in the init state of the verify page, but it "sends" an email to null. Once I reload the page, the init state has been enacted and the page will keep checking if an email is sent to the user. However, this will never be confirmed so once I restart the app, the startup page builds as normal because the user is ~technically~ logged in.
+
+
+**New Changes In My Life?**
+  1. Life has been getting stressful due to compounding pressures in my work, school and home life. I need to figure out a way to make sure the three work synchronously.
