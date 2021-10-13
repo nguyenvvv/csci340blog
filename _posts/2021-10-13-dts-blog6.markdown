@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Disco Tray Studios Blog 6"
+date:   2021-10-13
+author: Vi Nguyen
+excerpt: "Working for Disco Tray Studios"
+image: "/images/disco-tray-image.png"
+---
+## Update on Disco Tray Studios and life experiences
+
+**Good Vibes Flutter App**
+  1. I have been working on providing a Dark Mode feature for users in the Good Vibes app. I want be able to change the app's theme from any parts of the app. To do this I have been trying different things.
+  - Turning Material app to extend a stateful widget to be able to apply the theme dynamically upon new changes
+  - I have a Switch widget on the profile page that when clicked will return either a true or false value
+  - I then reference the boolean value from the switch widget in main where Material app is built
+  - I then make provide 2 theme data: one for light and one for dark mode
+  2. However, with this logic, I have ran into some problems:
+  - The app builds once and checks the value of the theme boolean but once you try changin the theme, it is not applied unless you restart the app on the backend
+  - The app will not remember a user's theme preference once they close out the app
+  3. Therefore, moving forward, I need to use a sharedPreference plugin that will store the user's preferences locally and upon the app starting, it will check for that value. The app needs to dynamically change the theme so Material app will need to rebuild, therefore I will need some kind of listener that will rebuild Material app upon a new change.
+
+**New Changes In My Life?**
+  1. I am excited for fall break because I can finally get some much needed rest. I will go home (North West Arkansas) for fall break.
