@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Disco Tray Studios Blog 7"
+date:   2021-10-20
+author: Vi Nguyen
+excerpt: "Working for Disco Tray Studios 7"
+image: "/images/disco-tray-image.png"
+---
+## Update on Disco Tray Studios and life experiences
+
+**Good Vibes Flutter App**
+  1. I have made some good efforts at implementing dark mode in the Good Vibes app. Users are able to dynamically turn on and off dark mode and see their changes go into effect throughout the entire app immediately. I had to put my implementations within ApplicationState because it inherits ChangeNotifier and I need to listen for new changes in the UI. Now that I have that functionality done, I need to discuss with the team how we want dark mode to be applied as a theme. I know light theme is what we have currently in the app but using the built in dark mode functionality of flutter does not go well with the colors we currently have in the app.
+  2. I still need to make the changes persistent. I have played around with sharedPreferences to save a boolean value for dark mode but when I try to retrieve this initial value, I get an error.
+
+**New Changes In My Life?**
+  1. New job offers and interviews :)
