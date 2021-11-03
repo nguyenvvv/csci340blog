@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Disco Tray Studios Blog 8"
+date:   2021-11-03
+author: Vi Nguyen
+excerpt: "Working for Disco Tray Studios 8"
+image: "/images/disco-tray-image.png"
+---
+## Update on Disco Tray Studios and life experiences
+
+**Good Vibes Flutter App**
+  1. I was able to implement the dark mode feature and have the theme change dynamically throughout the app. The change is conistent within all widgets. I was able to do this by referencing the change in application state for dark mode or light mode. Using that reference in all pages, I was able to provide ternary operations in widgets that contained a color attribute. As for themes for text, that one was a little bit tricky because some text attributes were individually determined rather than abstracted. I was able to change the color for texts in the app that did not belong to a header or a title. For each individual title and header I needed to provide a condition for it to change.
+  2. I could not get persistency to work but I do have the utility code for it i.e the code for storing and changing the value of the stored key. However, I am unable to retrieve that value from the local storage at the moment. Hopefully, I will figure it out during our meeting today. 
+
+**New Changes In My Life?**
+  1. This week I struggled with making life decisions--I had to choose between different job offers and evaluate my worth as a developer, the benefits of the company and work environment. I ended up accepting an offer with First Orion in Little Rock, meaning I would relocate from Fayetteville to Little Rock. This is quite the change of plans as I was planning on living in North West Arkansas and working for my current company, but that is not to say I am super excited for this new change. I am really proud of myself for all the growth and strenth!
+  2. I have also been struggling with my health but I am doing everything I can to get better. If you are reading this...send me good vibes.
