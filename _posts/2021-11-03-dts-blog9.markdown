@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "Disco Tray Studios Blog 9"
+date:   2021-11-03
+author: Vi Nguyen
+excerpt: "Working for Disco Tray Studios 9"
+image: "/images/disco-tray-image.png"
+---
+## Update on Disco Tray Studios and life experiences
+
+**Good Vibes Flutter App**
+  1. I have not had much time this week to work on shared preferences since that is the only part I need to finish the dark mode theme. I am hoping to get that done in our meeting today.
+
+
+**Playing the New Games**
+  1. Climate Goes Political
+  - The music matches the game
+  - Nice transitions
+  - Button clicks has sounds that are intuitive
+  - I would recommend having an option to turn off music but keep clicks on or vice versa
+  2. Chem Sim
+  - I can see the molecules so much better
+  - Sounds that occur when the valid reactants are placed is intuitive
+  3. Astronomical Bodies
+  - Super fun to try
+  - I like that you can change the settings of each planet on the left side
+  - You can hide the panel to see the full view of your astronomical bodies
+
+
+**New Changes In My Life?**
+  1. This week my anxieties about my capstone projects have been calmed. I realize that ultimately I want to showcase my ability to pick up new tools and learn to use them effectively. I need to work on how to explain my thought process to people in a way that they are able to understand. 
+  2. I have been looking for new places to live in Little Rock and planning my move in late December. I think I found the perfect place -- it is very cute and homey!

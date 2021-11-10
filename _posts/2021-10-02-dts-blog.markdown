@@ -3,7 +3,7 @@ layout: post
 title:  "Disco Tray Studios Blog 5"
 date:   2021-10-02
 author: Vi Nguyen
-excerpt: "Working for Disco Tray Studios"
+excerpt: "Working for Disco Tray Studios 5"
 image: "/images/disco-tray-image.png"
 ---
 ## Update on Disco Tray Studios and life experiences
